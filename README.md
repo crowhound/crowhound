@@ -1,10 +1,13 @@
 ## Hi there, I am Jonathan Westfall. 👋
 ----
 ### :hammer_and_wrench: Languages and Tools:
+
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Dot Net Core" **alt="Dot Net Core" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="Blazor" **alt="Blazor" width="40" height="40"/>
 </div>
+
 ### Free Stuff:
 
 Currently I am working on a set of free packages to use with Unity to help make development easier for all members of the community. When the first set of packages are ready I will add the links here. 
