@@ -27,7 +27,7 @@ Currently I am working on creating a small Discord server to allow people to dis
 [Shatter Fantasy Discord Server](https://discord.com/invite/Wqv6ErENa4)
 
 
-### Want Support Future Community Tools.
+### Want To Support Future Community Tools.
 For anyone wanting to support me, when I release the first set of public tools for the community you can donate on Ko-Fi.
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I4XDBZE)
 
