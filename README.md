@@ -17,14 +17,25 @@
 </div>
 
 ### Free Stuff:
-
 Currently I am working on a set of free packages to use with Unity to help make development easier for all members of the community. When the first set of packages are ready I will add the links here. 
+
+### Fan Made Remakes:
+Recently I have started to remake old games I used to play as a kid to use as a way to practice different game designs ideas.
+These are going to be hosted on my personal Git Hub for people to look at for free. Currently working on my first one [Nobby Nuss](https://github.com/crowhound/Nobby-Nuss-Remake).
 
 
 ### Discord Community Server:
 Currently I am working on creating a small Discord server to allow people to discuss things they would like to see added in the community packages. Anyone is allowed to join it. It is new and currently still being worked on. 
 
 [Shatter Fantasy Discord Server](https://discord.com/invite/Wqv6ErENa4)
+
+### Social Connections:
+If anyone wants to see me make stuff on stream and ask for requests or ask any questions, they can found me live on one of the following channels.
+Currently setting up a dual stream set up to stream to both at once. Currently streaming on Twitch and sending vods and videos to YouTube. 
+
+[YouTube Game Dev Channel](https://www.youtube.com/@ShatterFantasyStudio)
+
+[Twitch Game Dev Channel](https://www.twitch.tv/8bitsperplay)
 
 
 ### Want To Support Future Community Tools.
