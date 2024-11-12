@@ -41,19 +41,13 @@ This requirement is mostly due to not wanting to waste resources maintaining leg
 
 [Shatter Fantasy Utilities](https://github.com/Shatter-Fantasy/SF-Utilities)
 
-## Warning for the two very big and growing linked below Unity packages! 250 C# scripts and growing.
-The SF Sprite Tools and the SF Platformer packages are currently in an unstable state due to a recent update we are pushing for the last pre-alpha before alpha one release.
-They are super early pre-alphas currently in the works and can throw errors.
+## Warning for the SF Sprite Tools
+The SF Sprite Tools package are currently in very experimental testing. 
+It is in super early pre-alpha currently and can throw errors in rare cases.
 
-The SF Platformer pre-alpha 8 was already used to almost fully remake Super Mario World and Super Metroid for the SNES as tests. 
-We added a couple things in the current pre-alpha 9 that are waiting to have the Command Controller and it's custom editor to be pushed.
-There will be errors till we finish the last test for the Command Controller the week of November 10th for the SF Platformer.
-
-They are both on my personal GitHub, but once in better shape they both will be moved to the Shatter Fantasy main organization GitHub repos.
-These packages are already very big with already over 250 seperate C# scripts. I still got like 50 more uncommitted files to do some testing in the SF Platformer.
-Test both them in a new project. Do not use either pre-alpha package in a project that already exists till it is more stable.
-They are both the biggest packages I am currently in charge of working on.
-Read the install instructions carefully that are located in the read me at the following link. There is no documentation on it yet. To open the SF Sprite Editor look for the top menu bar menu for SF Tools.
+Test the SF Sprite Tools in a new project. Do not use the pre-alpha package in a project that already exists till it is more stable.
+Read the install instructions carefully that are located in the read me at the following link.
+There is no documentation on it yet. To open the SF Sprite Editor look for the top menu bar menu for SF Tools.
 
 [Shatter Fantasy Sprite Tools](https://github.com/crowhound/SF-Sprite-Tools)
 
