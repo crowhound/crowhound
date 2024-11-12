@@ -1,3 +1,13 @@
+
+# Important note for anyone looking at my profile during the weeks of November 10th and Novemeber 17th.
+TLDR:  Currently updating project repos and made some private just while syncing their new documentation. They will be made public again on a per repo basis when the documentation sync is done. 
+This includes my personal Linkedin and studio Twitter. I will be updating them a lot because most of my profile updates was on the main organization community linkedin that is private for community members part of the tool brain storming and QA team. 
+
+Non-TLDR: I am currently overhauling my portfolio projects, project repos, and a developer website I have been preparing to release that has educational material for software developers that is useful for multiple coding languages, web frameworks, and game engines. A lot of repos were made private for a short period of time while I clean up the repo read me section and add the first set of documentation.
+The repos are split between the organization account for Shatter Fantasy Tools being released as open source software for all Unity devs to use for free and my personal GitHub profile (this profile).
+You will see some forks of the Shatter Fantasy Tool repos here that are just meant as a way to show repos I am working on, but all code commits will be done on the Shatter Fantasy Tool repos.
+I will also be updating my personal Linkedin and the studio Twitter with the stuff I have been working on. Most updates were part of the private brain storming and QA testing community for the Shatter Fantasy Tools.
+
 ## Hi there, I am Jonathan Westfall. 👋
 ----
 ### :hammer_and_wrench: Languages and Tools:
@@ -15,6 +25,8 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" **alt="Javascript" width="40" height="40" align="left"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>
 </div>
+
+
 
 ### Unity Open Source Community Tools:
 Currently I am working on a set of free packages to use with Unity to help make development easier for all members of the community. 
