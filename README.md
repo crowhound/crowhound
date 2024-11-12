@@ -1,11 +1,7 @@
 # Important note for anyone looking at my profile during the weeks of November 10th and Novemeber 17th.
-TLDR:  Currently updating project repos and made some private just while syncing their new documentation. They will be made public again on a per repo basis when the documentation sync is done. 
+Currently updating project repos and made some private just while syncing their new documentation. They will be made public again on a per repo basis when the documentation sync is done. 
 This includes my personal Linkedin and studio Twitter. I will be updating them a lot because most of my profile updates was on the main organization community linkedin that is private for community members part of the tool brain storming and QA team. 
 
-Non-TLDR: I am currently overhauling my portfolio projects, project repos, and a developer website I have been preparing to release that has educational material for software developers that is useful for multiple coding languages, web frameworks, and game engines. A lot of repos were made private for a short period of time while I clean up the repo read me section and add the first set of documentation.
-The repos are split between the organization account for Shatter Fantasy Tools being released as open source software for all Unity devs to use for free and my personal GitHub profile (this profile).
-You will see some forks of the Shatter Fantasy Tool repos here that are just meant as a way to show repos I am working on, but all code commits will be done on the Shatter Fantasy Tool repos.
-I will also be updating my personal Linkedin and the studio Twitter with the stuff I have been working on. Most updates were part of the private brain storming and QA testing community for the Shatter Fantasy Tools.
 
 ## Hi there, I am Jonathan Westfall. 👋
 ----
@@ -26,7 +22,6 @@ I will also be updating my personal Linkedin and the studio Twitter with the stu
 </div>
 
 
-
 ## Unity Open Source Community Tools:
 Currently I am working on a set of free packages to use with Unity to help make development easier for all members of the community. 
 These are going to be open source for the community. Please note all the below tools is currently in pre-alpha, so not even alpha 1. 
@@ -35,11 +30,16 @@ They will have documentation and an updated read me for easy install instruction
 All of them are currently usable even in pre-alpha state, but they should only be used in Unity 2023.2 or newer. 
 This requirement is mostly due to not wanting to waste resources maintaining legacy UI Toolkit and Scriptable Render Pipeline code that was removed completely in Unity in 2023.2 and Unity 6.1.
 
+### SF Platformer Unity community package
+[Shatter Fantasy Platformer Package](https://github.com/crowhound/SF-Platformer)
+
+This one is the biggest one right now. Alpha one release is coming out the wek of November 10th mid week.
+It is to being made to make creating platformer and Metroidvania like games easier and quicker to do.
+
+### Other SF Unity community packages
 [Shatter Fantasy GitHub Organization Page](https://github.com/Shatter-Fantasy)
 
 [Shatter Fantasy UI Elements Tools](https://github.com/Shatter-Fantasy/SF-UI-Elements)
-
-[Shatter Fantasy Platformer Package](https://github.com/crowhound/SF-Platformer)
 
 [Shatter Fantasy Utilities](https://github.com/Shatter-Fantasy/SF-Utilities)
 
