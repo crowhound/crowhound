@@ -27,7 +27,7 @@ I will also be updating my personal Linkedin and the studio Twitter with the stu
 
 
 
-### Unity Open Source Community Tools:
+## Unity Open Source Community Tools:
 Currently I am working on a set of free packages to use with Unity to help make development easier for all members of the community. 
 These are going to be open source for the community. Please note all the below tools is currently in pre-alpha, so not even alpha 1. 
 We just finalized the roadmap for the first five alphas for all the packages and we finalized the documentation process on the week of November 10, 2024.
@@ -40,6 +40,25 @@ This requirement is mostly due to not wanting to waste resources maintaining leg
 [Shatter Fantasy UI Elements Tools](https://github.com/Shatter-Fantasy/SF-UI-Elements)
 
 [Shatter Fantasy Utilities](https://github.com/Shatter-Fantasy/SF-Utilities)
+
+## Warning for the two very big and growing linked below Unity packages! 250 C# scripts and growing.
+The SF Sprite Tools and the SF Platformer packages are currently in an unstable state due to a recent update we are pushing for the last pre-alpha before alpha one release.
+They are super early pre-alphas currently in the works and can throw errors.
+
+The SF Platformer pre-alpha 8 was already used to almost fully remake Super Mario World and Super Metroid for the SNES as tests. 
+We added a couple things in the current pre-alpha 9 that are waiting to have the Command Controller and it's custom editor to be pushed.
+There will be errors till we finish the last test for the Command Controller the week of November 10th for the SF Platformer.
+
+They are both on my personal GitHub, but once in better shape they both will be moved to the Shatter Fantasy main organization GitHub repos.
+These packages are already very big with already over 250 seperate C# scripts. I still got like 50 more uncommitted files to do some testing in the SF Platformer.
+Test both them in a new project. Do not use either pre-alpha package in a project that already exists till it is more stable.
+They are both the biggest packages I am currently in charge of working on.
+Read the install instructions carefully that are located in the read me at the following link. There is no documentation on it yet. To open the SF Sprite Editor look for the top menu bar menu for SF Tools.
+
+[Shatter Fantasy Sprite Tools](https://github.com/crowhound/SF-Sprite-Tools)
+
+[Shatter Fantasy Platformer Package](https://github.com/crowhound/Platformer-Package)
+
 
 ### Recent Self-Learning 
 Combine the things I already knew about DocFX and GitHub Actions to auto generate C# and .net documentation for projects and tools API for users to read through.
