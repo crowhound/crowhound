@@ -25,6 +25,7 @@ All of them are currently usable even in pre-alpha state, but they should only b
 This requirement is mostly due to not wanting to waste resources maintaining legacy UI Toolkit and Scriptable Render Pipeline code that was removed completely in Unity in 2023.2 and Unity 6.1
 
 [Shatter Fantasy UI Elements Tools](https://github.com/Shatter-Fantasy/SF-UI-Elements)
+
 [Shatter Fantasy Utilities](https://github.com/Shatter-Fantasy/SF-Utilities)
 
 ### Recent Self-Learning 
@@ -35,7 +36,9 @@ GitHub Actions is used to auomatically publish the documentation to a website fo
 Example link for the result of the very first test. Due note that I haven't set up the manual for the documentation to be generated yet and I need to add some descriptions to the properties.
 Second link is to the GitHub Action code that I used to generate the documentation. I will make an example page on how to set up the config file soon for people wanting to generate documentation themselves.
 This second link is part of the work in progres Shatter Fantasy UI Elements community tools. It is not even Alpha release 1 yet, but it is usable with a bit of UI Toolkit functionality.
+
 [Shatter Fantasy UI Elements Community Tools API Documentation](https://shatter-fantasy.github.io/SF-UI-Elements/api/SFEditor.UIElements.Utilities.MouseRectDragManipulator.html)
+
 [GitHub Action Code](https://github.com/Shatter-Fantasy/SF-UI-Elements/blob/master/.github/workflows/documentation.yml)
 
 ### Live Coding Self Learning Streams:
@@ -45,6 +48,7 @@ For anyone watching please keep in mind since I am doing self learning I might g
 These streams are meant to be a source of learning new developer techniques and to improve my skills.
 
 [Ripple Shader Learning Clip](https://www.twitch.tv/videos/2300075570)
+
 [Twitch Game Dev Channel](https://www.twitch.tv/8bitsperplay)
 
 
