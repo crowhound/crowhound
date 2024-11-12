@@ -1,4 +1,3 @@
-
 # Important note for anyone looking at my profile during the weeks of November 10th and Novemeber 17th.
 TLDR:  Currently updating project repos and made some private just while syncing their new documentation. They will be made public again on a per repo basis when the documentation sync is done. 
 This includes my personal Linkedin and studio Twitter. I will be updating them a lot because most of my profile updates was on the main organization community linkedin that is private for community members part of the tool brain storming and QA team. 
@@ -34,7 +33,9 @@ These are going to be open source for the community. Please note all the below t
 We just finalized the roadmap for the first five alphas for all the packages and we finalized the documentation process on the week of November 10, 2024.
 They will have documentation and an updated read me for easy install instructions via Unity's package manager added within the week of November 10, 2024.
 All of them are currently usable even in pre-alpha state, but they should only be used in Unity 2023.2 or newer. 
-This requirement is mostly due to not wanting to waste resources maintaining legacy UI Toolkit and Scriptable Render Pipeline code that was removed completely in Unity in 2023.2 and Unity 6.1
+This requirement is mostly due to not wanting to waste resources maintaining legacy UI Toolkit and Scriptable Render Pipeline code that was removed completely in Unity in 2023.2 and Unity 6.1.
+
+[Shatter Fantasy GitHub Organization Page](https://github.com/Shatter-Fantasy)
 
 [Shatter Fantasy UI Elements Tools](https://github.com/Shatter-Fantasy/SF-UI-Elements)
 
