@@ -39,6 +39,8 @@ This requirement is mostly due to not wanting to waste resources maintaining leg
 
 [Shatter Fantasy UI Elements Tools](https://github.com/Shatter-Fantasy/SF-UI-Elements)
 
+[Shatter Fantasy Platformer Package](https://github.com/crowhound/SF-Platformer)
+
 [Shatter Fantasy Utilities](https://github.com/Shatter-Fantasy/SF-Utilities)
 
 ## Warning for the SF Sprite Tools
@@ -51,7 +53,7 @@ There is no documentation on it yet. To open the SF Sprite Editor look for the t
 
 [Shatter Fantasy Sprite Tools](https://github.com/crowhound/SF-Sprite-Tools)
 
-[Shatter Fantasy Platformer Package](https://github.com/crowhound/Platformer-Package)
+
 
 
 ### Recent Self-Learning 
