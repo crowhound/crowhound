@@ -1,6 +1,8 @@
 # Important note for anyone looking at my profile during the weeks of November 10th and Novemeber 17th.
-Currently updating project repos and made some private just while syncing their new documentation. They will be made public again on a per repo basis when the documentation sync is done. 
-This includes my personal Linkedin and studio Twitter. I will be updating them a lot because most of my profile updates was on the main organization community linkedin that is private for community members part of the tool brain storming and QA team. 
+Currently I am adding the early work in progress documentation websites to each of the community tools. The read me for each community tool is also being updated during this time. 
+Some of the read me on the community tool repos might not be the cleanest for this timeline. Some of them have their documentation sites up, but some pages need moved to the correct namespaces. 
+By default they are added to the SF namespace section if the page is not declared. So some stuff in the SF namespace section will be moved to another namespace section. 
+I will be focusing on the SF Platformer and the SF UI Elemnts documentation and manuals first. 
 
 
 ## Hi there, I am Jonathan Westfall. 👋
