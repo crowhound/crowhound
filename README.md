@@ -1,10 +1,3 @@
-# Important note for anyone looking at my profile during the weeks of November 10th and Novemeber 17th.
-Currently I am adding the early work in progress documentation websites to each of the community tools. The read me for each community tool is also being updated during this time. 
-Some of the read me on the community tool repos might not be the cleanest for this timeline. Some of them have their documentation sites up, but some pages need moved to the correct namespaces. 
-By default they are added to the SF namespace section if the page is not declared. So some stuff in the SF namespace section will be moved to another namespace section. 
-I will be focusing on the SF Platformer and the SF UI Elemnts documentation and manuals first. 
-
-
 ## Hi there, I am Jonathan Westfall. 👋
 ----
 ### :hammer_and_wrench: Languages and Tools:
@@ -23,6 +16,10 @@ I will be focusing on the SF Platformer and the SF UI Elemnts documentation and 
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>
 </div>
 
+## Self Learning Repos
+There are several repos here, that are for self-learning and trying out new things. I will start marking the top of the read me section with a label saying self-learning repo that also says the current progress of it.
+My current work in progress self-learning repo is a multithreading Unity project. It is a small real time strategy game meant to test out moving, selecting, and giving commands to game units using mutlithreading code. 
+[Multithreading RTS Demo](https://github.com/crowhound/Multithreaded-RTS-DOTS-Demo)
 
 ## Unity Open Source Community Tools:
 Currently I am working on a set of free packages to use with Unity to help make development easier for all members of the community. 
@@ -56,10 +53,8 @@ There is no documentation on it yet. To open the SF Sprite Editor look for the t
 [Shatter Fantasy Sprite Tools](https://github.com/crowhound/SF-Sprite-Tools)
 
 
-
-
-### Recent Self-Learning 
-Combine the things I already knew about DocFX and GitHub Actions to auto generate C# and .net documentation for projects and tools API for users to read through.
+### Other Recent Self-Learning 
+Last self learning projects were aimed at combing the things I already knew about DocFX and GitHub Actions to auto generate C# and .net documentation for projects and tools API for users to read through.
 DocFX is used to generate YAML, markdown, and HTML files from a set of C# and .net files. 
 GitHub Actions is used to auomatically publish the documentation to a website for people to visit and learn from. 
 
