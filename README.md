@@ -19,7 +19,7 @@
 ## Game Dev Blog
 The link here goes to a game dev blog where I have free community resources, tutorials, how to/tricks, and more stuff about things I make.
 This has examples for C# coding, shaders, and VFX effects. It will include how to make the models and textures for the VFX and shaders as well.
-[Game Developer Resource Blog](https://app.gitbook.com/o/vJBdcL6nrrCliwDbq0YI/s/SNHjPeUXaea6ffkeNcR5/)
+[Game Developer Resource Blog](https://jonathans-private-organization.gitbook.io/jonathan-westfall-dev-blog)
 
 ## Self Learning Repos
 There are several repos here, that are for self-learning and trying out new things. I will start marking the top of the read me section with a label saying self-learning repo that also says the current progress of it.
