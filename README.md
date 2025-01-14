@@ -16,6 +16,15 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>
 </div>
 
+## Current Project Video Link
+The image below is a clickable link to a YouTube video. 
+I will be setting up a video host server later to just have an embedded video file here instead of a link to a YouTube video.
+
+
+[![Project Update Vieo Link](assets/images/project-update-thumbnail.PNG)](https://www.youtube.com/watch?v=rffI_-mzNRw)
+
+
+
 ## Game Dev Blog
 The link here goes to a game dev blog where I have free community resources, tutorials, how to/tricks, and more stuff about things I make.
 This has examples for C# coding, shaders, and VFX effects. It will include how to make the models and textures for the VFX and shaders as well.
