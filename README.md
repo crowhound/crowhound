@@ -17,9 +17,8 @@
 </div>
 
 ## Current Project Video Link
-The image below is a clickable link to a YouTube video. 
-I will be setting up a video host server later to just have an embedded video file here instead of a link to a YouTube video.
-
+> [!TIP]
+> The image below is a clickable link to a YouTube video.
 
 [![Project Update Vieo Link](assets/images/project-update-thumbnail.PNG)](https://www.youtube.com/watch?v=rffI_-mzNRw)
 
