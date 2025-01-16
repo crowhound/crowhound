@@ -56,13 +56,12 @@ It is to being made to make creating platformer and Metroidvania like games easi
 
 [Shatter Fantasy Utilities](https://github.com/Shatter-Fantasy/SF-Utilities)
 
-## Warning for the SF Sprite Tools
-The SF Sprite Tools package are currently in very experimental testing. 
-It is in super early pre-alpha currently and can throw errors in rare cases.
-
-Test the SF Sprite Tools in a new project. Do not use the pre-alpha package in a project that already exists till it is more stable.
-Read the install instructions carefully that are located in the read me at the following link.
-There is no documentation on it yet. To open the SF Sprite Editor look for the top menu bar menu for SF Tools.
+> [!WARNING]
+> The SF Sprite Tools package are currently in very experimental testing. 
+> It is in early pre-alpha currently and can throw errors in rare cases. <br/>
+>Test the SF Sprite Tools in a new project. Do not use the pre-alpha package in a project that already exists till it is more stable.
+>Read the install instructions carefully that are located in the read me at the following link.
+>There is no documentation on it yet. To open the SF Sprite Editor look for the top menu bar menu for SF Tools.
 
 [Shatter Fantasy Sprite Tools](https://github.com/crowhound/SF-Sprite-Tools)
 
