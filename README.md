@@ -23,16 +23,43 @@
 [![Project Update Vieo Link](assets/images/project-update-thumbnail.PNG)](https://www.youtube.com/watch?v=rffI_-mzNRw)
 
 
+## Updates to community repos
+The SF Platformer package is being updated in the Shatter Fantasy organization's SF-Metroidvania repo at the moment.
+After the SF Metroidvania reaches the next major milestone the updates for the SF PLatformer will be merged into the SF Platformer repo as a standalone tool.
+
+The SF Metroidvania package has a lot more than just the SF Platformer features. It has been heavily updated with the following:
+1. New encryption supported save/load systems.
+2. Metroidvania style room system that supports room spawn events for enemies, characters, and any other Unity gameobject.
+3. RPG Stat System that is customizable.
+4. Early WIP Inventory system.
+5. A loot drop system for enemy drops and drops obtained when breaking containers. Think 2D Castlevania where certain objects could be broken to drop money, items, and other stuff.
+6. A custom data editor for enemies, loot tables, item database, and a bit more. Please note this is the roughest wip area for the package. The Data Editor needs a lot more cleaning up UI wise.
+
+There is a lot more medium and small features in it, but will mention them on the dedicated page for it located at the following link.
+
+[SF Metroidvania Package](https://github.com/Shatter-Fantasy/SF-Metroidvania)
+
 
 ## Game Dev Blog
+Please note the game dev blog will be updated in full after the first alpha release for Immortal Chronicles that is scheduled for June.
+We are doing a live game dmeo at a convention May 31st and after that we can focus on some other stuff.
+
+So the blog is nowhere near done, organizaed, and fully fnished on most topics even though we already have the information being prepared to be published.
 The link here goes to a game dev blog where I have free community resources, tutorials, how to/tricks, and more stuff about things I make.
 This has examples for C# coding, shaders, and VFX effects. It will include how to make the models and textures for the VFX and shaders as well.
+
 [Game Developer Resource Blog](https://jonathans-private-organization.gitbook.io/jonathan-westfall-dev-blog)
 
 ## Self Learning Repos
+Current self-learning repo is not public yet. Below is the prevous one. 
+Currently making the standalone water tool for Unity in URP, so it can be dragged and dropped into any Unity 6 or newer version that is using URP.
+Special thanks to Andre McGrail (Verasl) and Brendan Duncan for providing a great learning resource to start with for Gerstner Waves in Unity's Boat-Attack demo project.
+
 There are several repos here, that are for self-learning and trying out new things. I will start marking the top of the read me section with a label saying self-learning repo that also says the current progress of it.
 My current work in progress self-learning repo is a multithreading Unity project. It is a small real time strategy game meant to test out moving, selecting, and giving commands to game units using mutlithreading code. 
+
 [Multithreading RTS Demo](https://github.com/crowhound/Multithreaded-RTS-DOTS-Demo)
+
 
 ## Unity Open Source Community Tools:
 Currently I am working on a set of free packages to use with Unity to help make development easier for all members of the community. 
@@ -43,12 +70,14 @@ All of them are currently usable even in pre-alpha state, but they should only b
 This requirement is mostly due to not wanting to waste resources maintaining legacy UI Toolkit and Scriptable Render Pipeline code that was removed completely in Unity in 2023.2 and Unity 6.1.
 
 ### SF Platformer Unity community package
+Development was shifted to the SF-Metroidvania package.
+After the next major release the updates will be merged into the SF-Platformer package, but right now the SF-Metrdoivania package is where a lot of the development is.
+It has a vast amount of improvements for physics, camera systems, and a lot more.
+
 [Shatter Fantasy Platformer Package](https://github.com/crowhound/SF-Platformer)
 
-This one is the biggest one right now. Alpha one release is coming out the wek of November 10th mid week.
-It is to being made to make creating platformer and Metroidvania like games easier and quicker to do.
-
 ### Other SF Unity community packages
+
 [Shatter Fantasy GitHub Organization Page](https://github.com/Shatter-Fantasy)
 
 [Shatter Fantasy UI Elements Tools](https://github.com/Shatter-Fantasy/SF-UI-Elements)
@@ -87,10 +116,6 @@ These streams are meant to be a source of learning new developer techniques and 
 [Ripple Shader Learning Clip](https://www.twitch.tv/videos/2300075570)
 
 [Twitch Game Dev Channel](https://www.twitch.tv/8bitsperplay)
-
-
-### Discord Community Server:
-Currently I am working on creating a small Discord server to allow people to discuss things they would like to see added in the community packages. This is a WIP and be ready within the next few months. 
 
 <!--
 ### Want To Support Future Community Tools.
