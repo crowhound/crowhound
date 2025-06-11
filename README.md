@@ -23,14 +23,16 @@
 [![Project Update Vieo Link](assets/images/project-update-thumbnail.PNG)](https://www.youtube.com/watch?v=rffI_-mzNRw)
 
 TODO: I am grabbing a screen shot for the video link below.
+
 [Metroidvania Room System First Test](https://www.youtube.com/watch?v=7L397Th6BX4)
 
 ## Reminder for the SF Unity packages:
-The packages are just preparing for Alpha One release. Something are will have code updates from alpha release to alpha release that might cause breaking API changes.
+The packages are just preparing for Alpha One release. Something will have code updates from alpha release to alpha release that might cause breaking API changes.
 There are a couple bugs we know about and some of them are related to a Unity Engine bug that a lead dev at Unity has already found a fix for and is going through QA in June. 
 This causes some random incorrect collision callbacks so you might see some random jitter on certain low angle slope platforms.
 Note the forum link mentions WebGl, but the bug was found later to be on all platforms.
-[Link to Discusiion](https://discussions.unity.com/t/memory-leak-when-using-rigidbody2d-physics-in-webgl/1649803)
+
+[Link to Discussion](https://discussions.unity.com/t/memory-leak-when-using-rigidbody2d-physics-in-webgl/1649803)
 
 
 ## Updates to community repos
