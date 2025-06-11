@@ -1,3 +1,7 @@
+# Important to anyone reading this in June 2025.
+I am currently updating the repos read me, adding images, manuals, and videos for tutorials. 
+If you see some sections that looked complete, I might be currently working on it.
+
 ## Hi there, I am Jonathan Westfall. 👋
 ----
 ### :hammer_and_wrench: Languages and Tools:
