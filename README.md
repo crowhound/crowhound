@@ -31,26 +31,16 @@ TODO: I am grabbing a screen shot for the video link below.
 [Metroidvania Room System First Test](https://www.youtube.com/watch?v=7L397Th6BX4)
 
 ## Reminder for the SF Unity packages:
-The packages are just preparing for Alpha One release. Something will have code updates from alpha release to alpha release that might cause breaking API changes.
-There are a couple bugs we know about and some of them are related to a Unity Engine bug that a lead dev at Unity has already found a fix for and is going through QA in June. 
-This causes some random incorrect collision callbacks so you might see some random jitter on certain low angle slope platforms.
-Note the forum link mentions WebGl, but the bug was found later to be on all platforms.
-
-[Link to Discussion](https://discussions.unity.com/t/memory-leak-when-using-rigidbody2d-physics-in-webgl/1649803)
+The packages are just preparing for early Alpha releases. Somethings will have code updates from alpha release to alpha release that might cause breaking API changes.
+There are a couple bugs we know about and some of them are related to a Unity Engine bug that a lead dev at Unity has already found a fix for and is going already through QA in early June.
 
 
 ## Updates to community repos
 The SF Platformer package is being updated in the Shatter Fantasy organization's SF-Metroidvania repo at the moment.
 After the SF Metroidvania reaches the next major milestone the updates for the SF PLatformer will be merged into the SF Platformer repo as a standalone tool.
 
-The SF Metroidvania package has a lot more than just the SF Platformer features. It has been heavily updated with the following:
-1. New encryption supported save/load systems.
-2. Metroidvania style room system that supports room spawn events for enemies, characters, and any other Unity gameobject.
-3. RPG Stat System that is customizable.
-4. Early WIP Inventory system.
-5. A loot drop system for enemy drops and drops obtained when breaking containers. Think 2D Castlevania where certain objects could be broken to drop money, items, and other stuff.
-6. A custom data editor for enemies, loot tables, item database, and a bit more. Please note this is the roughest wip area for the package. The Data Editor needs a lot more cleaning up UI wise.
-
+The SF Metroidvania package has a lot more than just the SF Platformer features. It has been heavily updated with a lot of features. 
+The feature list will be added to the SF Metroidvania readme and manual pages little over time. Currently the recordings for video documentation is my priority. 
 There is a lot more medium and small features in it, but will mention them on the dedicated page for it located at the following link.
 
 [SF Metroidvania Package](https://github.com/Shatter-Fantasy/SF-Metroidvania)
@@ -60,19 +50,14 @@ Current self-learning repo is not public yet. Below is the prevous one.
 Currently making the standalone water tool for Unity in URP, so it can be dragged and dropped into any Unity 6 or newer version that is using URP.
 Special thanks to Andre McGrail (Verasl) and Brendan Duncan for providing a great learning resource to start with for Gerstner Waves in Unity's Boat-Attack demo project.
 
+[Ocean Generator Video](https://www.youtube.com/watch?v=ryP10BY_mN0)
+
+
 There are several repos here, that are for self-learning and trying out new things. I will start marking the top of the read me section with a label saying self-learning repo that also says the current progress of it.
 My current work in progress self-learning repo is a multithreading Unity project. It is a small real time strategy game meant to test out moving, selecting, and giving commands to game units using mutlithreading code. 
 
 [Multithreading RTS Demo](https://github.com/crowhound/Multithreaded-RTS-DOTS-Demo)
 
-
-## Unity Open Source Community Tools:
-Currently I am working on a set of free packages to use with Unity to help make development easier for all members of the community. 
-These are going to be open source for the community. Please note all the below tools is currently in pre-alpha, so not even alpha 1. 
-We just finalized the roadmap for the first five alphas for all the packages and we finalized the documentation process on the week of November 10, 2024.
-They will have documentation and an updated read me for easy install instructions via Unity's package manager added within the week of November 10, 2024.
-All of them are currently usable even in pre-alpha state, but they should only be used in Unity 2023.2 or newer. 
-This requirement is mostly due to not wanting to waste resources maintaining legacy UI Toolkit and Scriptable Render Pipeline code that was removed completely in Unity in 2023.2 and Unity 6.1.
 
 ### SF Platformer Unity community package
 Development was shifted to the SF-Metroidvania package.
