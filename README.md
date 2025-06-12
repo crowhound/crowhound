@@ -55,17 +55,6 @@ There is a lot more medium and small features in it, but will mention them on th
 
 [SF Metroidvania Package](https://github.com/Shatter-Fantasy/SF-Metroidvania)
 
-
-## Game Dev Blog
-Please note the game dev blog will be updated in full after the first alpha release for Immortal Chronicles that is scheduled for June.
-We are doing a live game dmeo at a convention May 31st and after that we can focus on some other stuff.
-
-So the blog is nowhere near done, organizaed, and fully fnished on most topics even though we already have the information being prepared to be published.
-The link here goes to a game dev blog where I have free community resources, tutorials, how to/tricks, and more stuff about things I make.
-This has examples for C# coding, shaders, and VFX effects. It will include how to make the models and textures for the VFX and shaders as well.
-
-[Game Developer Resource Blog](https://jonathans-private-organization.gitbook.io/jonathan-westfall-dev-blog)
-
 ## Self Learning Repos
 Current self-learning repo is not public yet. Below is the prevous one. 
 Currently making the standalone water tool for Unity in URP, so it can be dragged and dropped into any Unity 6 or newer version that is using URP.
@@ -90,8 +79,6 @@ Development was shifted to the SF-Metroidvania package.
 After the next major release the updates will be merged into the SF-Platformer package, but right now the SF-Metrdoivania package is where a lot of the development is.
 It has a vast amount of improvements for physics, camera systems, and a lot more.
 
-[Shatter Fantasy Platformer Package](https://github.com/crowhound/SF-Platformer)
-
 ### Other SF Unity community packages
 
 [Shatter Fantasy GitHub Organization Page](https://github.com/Shatter-Fantasy)
@@ -102,26 +89,25 @@ It has a vast amount of improvements for physics, camera systems, and a lot more
 
 > [!WARNING]
 > The SF Sprite Tools package are currently in very experimental testing. 
-> It is in early pre-alpha currently and can throw errors in rare cases. <br/>
+> It is in early pre-alpha currently and can throw errors in rare cases  when using the multi sprite editing tool for creating animations. <br/>
 >Test the SF Sprite Tools in a new project. Do not use the pre-alpha package in a project that already exists till it is more stable.
 >Read the install instructions carefully that are located in the read me at the following link.
->There is no documentation on it yet. To open the SF Sprite Editor look for the top menu bar menu for SF Tools.
+>There is no documentation on it yet. To open the SF Sprite Editor look for the top menu bar menu for SF/2D/Sprite Editor.
 
 [Shatter Fantasy Sprite Tools](https://github.com/crowhound/SF-Sprite-Tools)
 
 
 ### Other Recent Self-Learning 
-Last self learning projects were aimed at combing the things I already knew about DocFX and GitHub Actions to auto generate C# and .net documentation for projects and tools API for users to read through.
+Last self learning projects were aimed at combining the things I already knew about DocFX and GitHub Actions to auto generate C# and .net documentation for projects and tools API for users to read through.
 DocFX is used to generate YAML, markdown, and HTML files from a set of C# and .net files. 
 GitHub Actions is used to auomatically publish the documentation to a website for people to visit and learn from. 
 
-Example link for the result of the very first test. Due note that I haven't set up the manual for the documentation to be generated yet and I need to add some descriptions to the properties.
-Second link is to the GitHub Action code that I used to generate the documentation. I will make an example page on how to set up the config file soon for people wanting to generate documentation themselves.
-This second link is part of the work in progres Shatter Fantasy UI Elements community tools. It is not even Alpha release 1 yet, but it is usable with a bit of UI Toolkit functionality.
+Example link for the current SF Metroidvania API documentation. Do note that I haven't set up the manual for the documentation or the home page yet. At the moment the home page mirrors the default read me file for packages.
+Second link is to the GitHub Action code that I used to generate the documentation. I will make an example page on how to set up the config file later for people wanting to generate documentation themselves.
 
-[Shatter Fantasy UI Elements Community Tools API Documentation](https://shatter-fantasy.github.io/SF-UI-Elements/api/SFEditor.UIElements.Utilities.MouseRectDragManipulator.html)
+[SF Metroidvania Early WIP Documentation ](https://shatter-fantasy.github.io/SF-Metroidvania/api/SF.Characters.Controllers.html)
 
-[GitHub Action Code](https://github.com/Shatter-Fantasy/SF-UI-Elements/blob/master/.github/workflows/documentation.yml)
+[GitHub Action Code](https://github.com/Shatter-Fantasy/SF-Metroidvania/blob/alpha-release-pages/.github/workflows/documentation.yml)
 
 ### Live Coding Self Learning Streams:
 Every so often I do self-learning live streams or just testing out different ways to do stuff I already know how to do. 
