@@ -78,17 +78,23 @@ There is a lot more medium and small features in it, but will mention them on th
 [SF Metroidvania Package](https://github.com/Shatter-Fantasy/SF-Metroidvania)
 
 ## Self Learning Repos
-Current self-learning repo is not public yet. Below is the prevous one. 
-Currently making the standalone water tool for Unity in URP, so it can be dragged and dropped into any Unity 6 or newer version that is using URP.
-Special thanks to Andre McGrail (Verasl) and Brendan Duncan for providing a great learning resource to start with for Gerstner Waves in Unity's Boat-Attack demo project.
+<!--
+Special thanks to Andre McGrail (Verasl) and Brendan Duncan for providing a great learning resource to start with for Gerstner Waves in Unity's Boat-Attack demo project. 
 
-[Ocean Generator Video](https://www.youtube.com/watch?v=ryP10BY_mN0)
+-->
 
-
-There are several repos here, that are for self-learning and trying out new things. I will start marking the top of the read me section with a label saying self-learning repo that also says the current progress of it.
-My current work in progress self-learning repo is a multithreading Unity project. It is a small real time strategy game meant to test out moving, selecting, and giving commands to game units using mutlithreading code. 
+First one was a short Multithreading learning project for Unity DOTS to implement multithreaded enemy movement and stratgey game selection.
+This one is small because I moved over to the ocean generator for multithreading. 
 
 [Multithreading RTS Demo](https://github.com/crowhound/Multithreaded-RTS-DOTS-Demo)
+
+Second one is a First Person Metroidvania. I will release the source code after cleaning up the SF Utilities stuff I have been working on for shaders.
+The shader and rendering stuff hasn't been passed to the public repo yet for SF Utilities. Need to clean up the ocean light data structs used by shaders.
+This one has a combat visor system for scanning objects and adding the scan data to a log and also an x-ray visor system. Both inspired by Metroid Prime 1.
+
+> Early work in progress x-ray visor that can see through certain walls and objects.
+
+![X Ray Visor](https://github.com/user-attachments/assets/4755f6a3-e9da-4136-86b5-125bea7a1684)
 
 
 ### SF Platformer Unity community package
@@ -107,9 +113,9 @@ It has a vast amount of improvements for physics, camera systems, and a lot more
 > [!WARNING]
 > The SF Sprite Tools package are currently in very experimental testing. 
 > It is in early pre-alpha currently and can throw errors in rare cases  when using the multi sprite editing tool for creating animations. <br/>
->Test the SF Sprite Tools in a new project. Do not use the pre-alpha package in a project that already exists till it is more stable.
->Read the install instructions carefully that are located in the read me at the following link.
->There is no documentation on it yet. To open the SF Sprite Editor look for the top menu bar menu for SF/2D/Sprite Editor.
+> Test the SF Sprite Tools in a new project. Do not use the pre-alpha package in a project that already exists till it is more stable.
+> Read the install instructions carefully that are located in the read me at the following link.
+> There is no documentation on it yet. To open the SF Sprite Editor look for the top menu bar menu for SF/2D/Sprite Editor.
 
 [Shatter Fantasy Sprite Tools](https://github.com/crowhound/SF-Sprite-Tools)
 
