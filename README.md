@@ -33,7 +33,7 @@ If you see the black arrow below it is a collaspable section that opens up to sh
 > [!TIP]
 > The image below is a clickable link to a YouTube video.
 
-[![Project Update Vieo Link](https://github.com/user-attachments/assets/2ee82c99-f9fe-4223-8c20-18411ac34b9b)](https://www.youtube.com/watch?v=rffI_-mzNRw)
+[![Project Update Vieo Link](https://github.com/user-attachments/assets/2ee82c99-f9fe-4223-8c20-18411ac34b9b)](https://www.youtube.com/watch?v=ryP10BY_mN0)
 
 <details>
   <summary>Multithreaded Procedural Mesh Generation</summary>
