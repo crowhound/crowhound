@@ -1,6 +1,6 @@
 # Important to anyone reading this in June 2025.
 I am currently updating the repos read me, adding images, manuals, and videos for tutorials. 
-If you see some sections that looked complete, I might be currently working on it.
+If you see some sections that don't look completed, I might be currently working on it.
 
 ## Hi there, I am Jonathan Westfall. 👋
 ----
@@ -19,6 +19,44 @@ If you see some sections that looked complete, I might be currently working on i
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" **alt="Javascript" width="40" height="40" align="left"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>
 </div>
+
+## Readme Legend 
+If you see the black arrow below it is a collaspable section that opens up to show more stuff
+<details>
+  <summary>Collaspabble example</summary>
+  Sections are being formatted into collaspabble sections to make it easer for people to read only what they are interested in. 
+</details>
+
+
+## Multithreaded Mesh Generation 
+
+![Ocean Rendering 2](https://github.com/user-attachments/assets/2ee82c99-f9fe-4223-8c20-18411ac34b9b)
+
+<details>
+  <summary>Multithreaded Procedural Mesh Generation</summary>
+  
+## Mesh Generation Overvieww
+Credit to CatLikeCoding for teaching people how to do this.
+
+Created a series of Mesh Jobs that implement an IMeshGenerator to procedurally generate different shapes.
+
+IMeshGenerator defines the base implementation for executing a C# job that generates shapes procedurally.
+It includes fields for Vertex and Index count for the generated mesh.
+
+IMeshStream is used to initialize the C# Job for procedural data creation used in meshes like defining the Triangles, SetVertex positions and calculating the bounds.
+
+MeshJob is used to schedule jobs defined in the IMeshGenerator being implemented by the chosen ProceduralMeshs and to also pass in the IMeshStream.
+
+## Usecase
+This is being used in the ocean generator I am working on.
+Also useful for a work in progress sprite mesh generation tool I am working on for a custom 2D navmesh and raymarhcing system.
+
+> [!TIP]
+> The first image is a Youtube video link.
+
+[![Ocean Generation Test](https://img.youtube.com/vi/ryP10BY_mN0/0.jpg)](https://www.youtube.com/watch?v=ryP10BY_mN0)
+
+</details>
 
 ## Current Project Video Link
 > [!TIP]
