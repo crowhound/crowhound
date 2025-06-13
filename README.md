@@ -30,13 +30,16 @@ If you see the black arrow below it is a collaspable section that opens up to sh
 
 ## Multithreaded Mesh Generation 
 
-![Ocean Rendering 2](https://github.com/user-attachments/assets/2ee82c99-f9fe-4223-8c20-18411ac34b9b)
+> [!TIP]
+> The image below is a clickable link to a YouTube video.
+
+[![Project Update Vieo Link](https://github.com/user-attachments/assets/2ee82c99-f9fe-4223-8c20-18411ac34b9b)](https://www.youtube.com/watch?v=rffI_-mzNRw)
 
 <details>
   <summary>Multithreaded Procedural Mesh Generation</summary>
   
-## Mesh Generation Overvieww
-Credit to CatLikeCoding for teaching people how to do this.
+### Mesh Generation Overvieww
+> Credit to CatLikeCoding for helping provide vast amount of resources for mesh generation math.
 
 Created a series of Mesh Jobs that implement an IMeshGenerator to procedurally generate different shapes.
 
@@ -47,22 +50,13 @@ IMeshStream is used to initialize the C# Job for procedural data creation used i
 
 MeshJob is used to schedule jobs defined in the IMeshGenerator being implemented by the chosen ProceduralMeshs and to also pass in the IMeshStream.
 
-## Usecase
+### Usecase
 This is being used in the ocean generator I am working on.
 Also useful for a work in progress sprite mesh generation tool I am working on for a custom 2D navmesh and raymarhcing system.
-
-> [!TIP]
-> The first image is a Youtube video link.
-
-[![Ocean Generation Test](https://img.youtube.com/vi/ryP10BY_mN0/0.jpg)](https://www.youtube.com/watch?v=ryP10BY_mN0)
-
 </details>
 
 ## Current Project Video Link
-> [!TIP]
-> The images below are clickable links to a YouTube videos.
 
-[![Project Update Vieo Link](assets/images/project-update-thumbnail.PNG)](https://www.youtube.com/watch?v=rffI_-mzNRw)
 
 TODO: I am grabbing a screen shot for the video link below.
 
