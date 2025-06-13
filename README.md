@@ -94,16 +94,6 @@ Second link is to the GitHub Action code that I used to generate the documentati
 
 [GitHub Action Code](https://github.com/Shatter-Fantasy/SF-Metroidvania/blob/alpha-release-pages/.github/workflows/documentation.yml)
 
-### Live Coding Self Learning Streams:
-Every so often I do self-learning live streams or just testing out different ways to do stuff I already know how to do. 
-These live streams will have me fumbling around as I try to learn new things or improve on stuff while streaming.
-For anyone watching please keep in mind since I am doing self learning I might get stuck on certain areas for stuff I am learning from scratch.
-These streams are meant to be a source of learning new developer techniques and to improve my skills.
-
-[Ripple Shader Learning Clip](https://www.twitch.tv/videos/2300075570)
-
-[Twitch Game Dev Channel](https://www.twitch.tv/8bitsperplay)
-
 <!--
 ### Want To Support Future Community Tools.
 For anyone wanting to support me, when I release the first set of public tools for the community you can donate on Ko-Fi.
