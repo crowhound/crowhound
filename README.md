@@ -21,10 +21,10 @@ If you see some sections that don't look completed, I might be currently working
 </div>
 
 ## Readme Legend 
-If you see the black arrow below it is a collaspable section that opens up to show more stuff
+If you see the black arrow below it is a Collapsible section that opens up to show more stuff
 <details>
-  <summary>Collaspabble example</summary>
-  Sections are being formatted into collaspabble sections to make it easer for people to read only what they are interested in. 
+  <summary>Collapsible example</summary>
+  Sections are being formatted into Collapsible sections to make it easer for people to read only what they are interested in. 
 </details>
 
 
