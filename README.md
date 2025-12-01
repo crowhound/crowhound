@@ -53,14 +53,23 @@ MeshJob is used to schedule jobs defined in the IMeshGenerator being implemented
 ### Usecase
 This is being used in the ocean generator I am working on.
 Also useful for a work in progress sprite mesh generation tool I am working on for a custom 2D navmesh and raymarhcing system.
+
+
+### Credit to Unity URP Team
+This Water Shader was done by learning from Unity's Boat Attack demo and creating a custom version of the Water HLSL files.
 </details>
+
 
 ## Current Project Video Link
 
+Currently using Unity's new Low Level Physics 2D API added in Unity 6.3 to create a Metroidvania game with interactble enviorments with good performance.
+The new API is burst and job friendly allowing while making use of no memory allocation API calls to create a extednable physics system meant for performance
+from the ground up.
 
-TODO: I am grabbing a screen shot for the video link below.
+Currently working on creating a custom TileMapShape using the low level physic 2D API for high performant collisions.
 
-[Metroidvania Room System First Test](https://www.youtube.com/watch?v=7L397Th6BX4)
+
+[Unity 2D Low Level Physics - Custom Tilemap Shape Demonstration](https://www.youtube.com/watch?v=8rAHIgDUw7U)
 
 ## Reminder for the SF Unity packages:
 The packages are just preparing for early Alpha releases. Somethings will have code updates from alpha release to alpha release that might cause breaking API changes.
@@ -97,11 +106,6 @@ This one has a combat visor system for scanning objects and adding the scan data
 ![X Ray Visor](https://github.com/user-attachments/assets/4755f6a3-e9da-4136-86b5-125bea7a1684)
 
 
-### SF Platformer Unity community package
-Development was shifted to the SF-Metroidvania package.
-After the next major release the updates will be merged into the SF-Platformer package, but right now the SF-Metrdoivania package is where a lot of the development is.
-It has a vast amount of improvements for physics, camera systems, and a lot more.
-
 ### Other SF Unity community packages
 
 [Shatter Fantasy GitHub Organization Page](https://github.com/Shatter-Fantasy)
@@ -129,6 +133,9 @@ Example link for the current SF Metroidvania API documentation. Do note that I h
 Second link is to the GitHub Action code that I used to generate the documentation. I will make an example page on how to set up the config file later for people wanting to generate documentation themselves.
 
 [SF Metroidvania Early WIP Documentation ](https://shatter-fantasy.github.io/SF-Metroidvania/api/SF.Characters.Controllers.html)
+
+This tells GitHub to read the yaml files in the Documentation folder and generate a website for manual and api documentation and deploy it online.
+It auto updates on every merge into the alpha-release-pages branch.
 
 [GitHub Action Code](https://github.com/Shatter-Fantasy/SF-Metroidvania/blob/alpha-release-pages/.github/workflows/documentation.yml)
 
