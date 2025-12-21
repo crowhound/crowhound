@@ -2,7 +2,7 @@
 I am currently updating the repos read me, adding images, manuals, and videos for tutorials. 
 If you see some sections that don't look completed, I might be currently working on it.
 
-## Hi there, I am Jonathan Westfall. 👋
+## Hi there, I am Jonathan Westfall.
 ----
 ### :hammer_and_wrench: Languages and Tools:
 
