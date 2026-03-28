@@ -40,7 +40,7 @@ I also already have CoreCLR ready API in my Unity packages via the new lifecycle
 
 ## Fan Remakes
 
-[!Screen shot of Oracle of Seasons wip](/assets/images/oos/oos-remake-01.PNG)
+![Screen shot of Oracle of Seasons wip](/assets/images/oos/oos-remake-01.PNG)
 
 Whenever Unity adds a new feature or I want to learn something new I do small or fan-remake projects where I try to 
 recreate game mechanic or entire games. This link goes to the ones I am doing right now.
