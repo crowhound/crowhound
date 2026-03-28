@@ -1,8 +1,7 @@
-# Important to anyone reading this in June 2025.
-I am currently updating the repos read me, adding images, manuals, and videos for tutorials. 
-If you see some sections that don't look completed, I might be currently working on it.
+## Hi there, I am Jonathan Westfall. 
 
-## Hi there, I am Jonathan Westfall.
+Currently working as a Unity dev that enjoys working on physics systems and custom tool editors.
+
 ----
 ### :hammer_and_wrench: Languages and Tools:
 
