@@ -1,13 +1,26 @@
-## Hi there, I am Jonathan Westfall. 
+# Hi there, I am Jonathan Westfall. 
 
 Currently working as a Unity dev that enjoys working on physics systems and custom tool editors.
 
 ----
 
-[Fan Remakes - Self Learning](pages/fan-remakes.md)
+
+### Readme Legend
+If you see the black arrow below it is a Collapsible section that opens up to show more stuff
+<details>
+  <summary>Collapsible example</summary>
+  Sections are being formatted into Collapsible sections to make it easer for people to read only what they are interested in. 
+</details>
 
 
-### :hammer_and_wrench: Languages and Tools:
+### Languages and Tools:
+These are the main tools and coding languages I work with. 
+Currently I am moving stuff to .net 10 and learning the changes for it.
+
+For my free tools I make for Unity I already have branches with 6.5 beta and 6.6 alpha one support.
+Unity 6.6 alpha just came out so over the alpha period API might change.
+I also already have CoreCLR ready API in my Unity packages via the new lifecycle management API Unity introduced in 
+6.5 with entityID being used instead of instanceID.
 
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40" align="left"/>
@@ -23,14 +36,15 @@ Currently working as a Unity dev that enjoys working on physics systems and cust
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>
 </div>
 
-## Readme Legend 
-If you see the black arrow below it is a Collapsible section that opens up to show more stuff
-<details>
-  <summary>Collapsible example</summary>
-  Sections are being formatted into Collapsible sections to make it easer for people to read only what they are interested in. 
-</details>
+----
 
+## Fan Remakes
 
+Whenever Unity adds a new feature or I want to learn something new I do small or fan-remake projects where I try to 
+recreate game mechanic or entire games. This link goes to the ones I am doing right now.
+Note I just recently started making pages for them and download links. At the moment only a small amount is there.
+
+[Fan Remakes - Self Learning](pages/fan-remakes.md)
 
 
 ## Multithreaded Mesh Generation 
@@ -46,7 +60,7 @@ If you see the black arrow below it is a Collapsible section that opens up to sh
 ### Mesh Generation Overvieww
 > Credit to CatLikeCoding for helping provide vast amount of resources for mesh generation math.
 
-Created a series of Mesh Jobs that implement an IMeshGenerator to procedurally generate different shapes.
+Created a series of Mesh Jobs that implement an IMeshGenerator interface to procedurally generate different shapes.
 
 IMeshGenerator defines the base implementation for executing a C# job that generates shapes procedurally.
 It includes fields for Vertex and Index count for the generated mesh.
@@ -57,7 +71,9 @@ MeshJob is used to schedule jobs defined in the IMeshGenerator being implemented
 
 ### Usecase
 This is being used in the ocean generator I am working on.
-Also useful for a work in progress sprite mesh generation tool I am working on for a custom 2D navmesh and raymarhcing system.
+Also useful for a work in progress sprite mesh generation tool I am working on for a custom 2D navmesh and 
+raymarching system. For 2D navmesh I use the Low Level Physics 2D API introduced in Unity 6.3. Note in 6.5 this was 
+renamed to Physics Core 2D. 
 
 
 ### Credit to Unity URP Team

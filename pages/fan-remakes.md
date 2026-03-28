@@ -14,7 +14,7 @@ made public.
 > This project is just a prototype right now missing even menus. It was created to test out my custom physics system 
 > in Unity 6.5 Beta. Don't take this quality as a my profesional level. It is a prototype.
 
-I started to recreate Zelda oracle of Seasons for the Gameboy inside of Unity to test out my multithreaded and burst 
+I started to recreate Zelda Oracle of Seasons for the Gameboy inside of Unity to test out my multithreaded and burst 
 compiled physics system. This was also meant to test out adding new mechanics and QOL features to older games.
 
 
