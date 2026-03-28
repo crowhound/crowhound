@@ -3,6 +3,10 @@
 Currently working as a Unity dev that enjoys working on physics systems and custom tool editors.
 
 ----
+
+[Fan Remakes - Self Learning](pages/fan-remakes.md)
+
+
 ### :hammer_and_wrench: Languages and Tools:
 
 <div>
@@ -25,6 +29,8 @@ If you see the black arrow below it is a Collapsible section that opens up to sh
   <summary>Collapsible example</summary>
   Sections are being formatted into Collapsible sections to make it easer for people to read only what they are interested in. 
 </details>
+
+
 
 
 ## Multithreaded Mesh Generation 
