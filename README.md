@@ -1,8 +1,13 @@
 # Hi there, I am Jonathan Westfall. 
 
-Currently working as a Unity dev that enjoys working on physics systems and custom tool editors.
+Currently working as a Unity community dev that enjoys working on physics systems and custom tool editors.
+At the moment I am helping out gathering bug reports, examining crashes, and helping test Unity's current beta and alphas for issues.
+
+Link to the current crash reports I am working on and helping Unity's engine team with.
+https://discussions.unity.com/t/tilemap-crashes-and-rendering-bugs-in-unity-6-4-6-5-and-6-6-collection-post/1715496/1
 
 ----
+
 
 
 ### Readme Legend
