@@ -33,14 +33,13 @@ Note I have years of expierence with React and Angular, but currently am not usi
 Switched to Blazor and Razor pages for the most part for web dev.
 
 <div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40" align="left"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Dot Net Core" **alt="Dot Net Core" width="40" height="40" align="left"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="Blazor" **alt="Blazor" width="40" height="40" align="left"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Dot Net Core" **alt="Dot Net Core" width="40" height="40" />
+ <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="Blazor" **alt="Blazor" width="40" height="40" />
+ <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40" />
+ <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="Github Actions" **alt="Github Actions" width="40" height="40"/>
 </div>
-<div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40" align="left"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="Github Actions" **alt="Github Actions" width="40" height="40" align="left"/>
-</div>
+
 
 ----
 
