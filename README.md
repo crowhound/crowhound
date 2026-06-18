@@ -1,10 +1,12 @@
 # Hi there, I am Jonathan Westfall. 
 
 Currently working as a Unity community dev that enjoys working on physics systems and custom tool editors.
-At the moment I am helping out gathering bug reports, examining crashes, and helping test Unity's current beta and alphas for issues.
+At the moment I am also working on tutorials for the community for Unity 6.5 and newer versions to help showcase how to use new features and help migrate over from older obsoleted features.
 
-Link to the current crash reports I am working on and helping Unity's engine team with.
-https://discussions.unity.com/t/tilemap-crashes-and-rendering-bugs-in-unity-6-4-6-5-and-6-6-collection-post/1715496/1
+Starting in June 2026 I will be working on the UI Toolkit and Physics Core 2D Module tutorials and features.
+Link to a new repo where I will be starting to add example demos that go along the videos I release to teach and help share information about new Unity features.
+
+https://github.com/crowhound/UI-Toolkit-Tutorials
 
 ----
 
@@ -22,10 +24,13 @@ If you see the black arrow below it is a Collapsible section that opens up to sh
 These are the main tools and coding languages I work with. 
 Currently I am moving stuff to .net 10 and learning the changes for it.
 
-For my free tools I make for Unity I already have branches with 6.5 beta and 6.6 alpha one support.
-Unity 6.6 alpha just came out so over the alpha period API might change.
+For my free tools I make for Unity I already have branches with 6.5 and 6.6 support.
+Unity 6.6 is still in alpha as of current moment I typed this line of text, but will be entering beta soon.
 I also already have CoreCLR ready API in my Unity packages via the new lifecycle management API Unity introduced in 
 6.5 with entityID being used instead of instanceID.
+
+Note I have years of expierence with React and Angular, but currently am not using them for work right now.
+Switched to Blazor and Razor pages for the most part for web dev.
 
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40" align="left"/>
@@ -36,12 +41,18 @@ I also already have CoreCLR ready API in my Unity packages via the new lifecycle
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40" align="left"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="Github Actions" **alt="Github Actions" width="40" height="40" align="left"/>
 </div>
-<div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" **alt="Javascript" width="40" height="40" align="left"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>
-</div>
 
 ----
+
+## Tutorial Repos
+
+Note these repos are new as of June 2026 and being updated daily for the most part.
+There are more than linked below already, but are set to private till I finish initial set up.
+
+Unity UI Toolkit 6.5+ Tutorials
+
+https://github.com/crowhound/UI-Toolkit-Tutorials
+
 
 ## Fan Remakes
 
@@ -50,6 +61,8 @@ I also already have CoreCLR ready API in my Unity packages via the new lifecycle
 Whenever Unity adds a new feature or I want to learn something new I do small or fan-remake projects where I try to 
 recreate game mechanic or entire games. This link goes to the ones I am doing right now.
 Note I just recently started making pages for them and download links. At the moment only a small amount is there.
+
+The current build is actually really outdated because I just did a month of major updates and doing QA tests before uploading it.
 
 [Fan Remakes - Self Learning](pages/fan-remakes.md)
 
@@ -95,22 +108,26 @@ The new API is burst and job friendly allowing while making use of no memory all
 from the ground up.
 
 Currently working on creating a custom TileMapShape using the low level physic 2D API for high performant collisions.
+Note the videos for Physics Core 2D module, (formerly called Low Level Physics 2D) was before the SIMD code optimizations.
+In Unity 6.6 some SIMD optimizations for CPU cycles was introduced by Unity. Some Physics scenes in my projects gained a 50% performance boost.
+This was thanks to the introduction of multithreaded memory allocation support for some stuff and also introduction of some SIMD-accelerated type support in .Net.
+
+[Unity Physics Core 2D Dynamic Particle Simulation - Test One](https://www.youtube.com/watch?v=AMQSOS6vLHM)
 
 
 [Unity 2D Low Level Physics - Custom Tilemap Shape Demonstration](https://www.youtube.com/watch?v=8rAHIgDUw7U)
 
 ## Reminder for the SF Unity packages:
 The packages are just preparing for early Alpha releases. Somethings will have code updates from alpha release to alpha release that might cause breaking API changes.
-There are a couple bugs we know about and some of them are related to a Unity Engine bug that a lead dev at Unity has already found a fix for and is going already through QA in early June.
+The goal is to get the first stable release with support for Unity 6.5 as minimum whilke having support for newer API when using Unity 6.6+.
+One example is the UniqueStyleString introduced in 6.6 to improve UI Toolkit initialization performance which also vastly lowered memory allocations from UI Elements.
 
+[UniqueStyleString Manual Page For Those Interested](https://docs.unity3d.com/6000.6/Documentation/ScriptReference/UIElements.UniqueStyleString.html)
 
 ## Updates to community repos
-The SF Platformer package is being updated in the Shatter Fantasy organization's SF-Metroidvania repo at the moment.
-After the SF Metroidvania reaches the next major milestone the updates for the SF PLatformer will be merged into the SF Platformer repo as a standalone tool.
-
-The SF Metroidvania package has a lot more than just the SF Platformer features. It has been heavily updated with a lot of features. 
-The feature list will be added to the SF Metroidvania readme and manual pages little over time. Currently the recordings for video documentation is my priority. 
-There is a lot more medium and small features in it, but will mention them on the dedicated page for it located at the following link.
+As of May 2026 The SF Metroidvania package and the SF Top Down Package are the main focus for development.
+Both of them have had the SF Core and SF Utilities packaged embedded allowing for installing one package and that is it.
+No dependencies or anything at all.
 
 [SF Metroidvania Package](https://github.com/Shatter-Fantasy/SF-Metroidvania)
 
@@ -119,6 +136,13 @@ There is a lot more medium and small features in it, but will mention them on th
 Special thanks to Andre McGrail (Verasl) and Brendan Duncan for providing a great learning resource to start with for Gerstner Waves in Unity's Boat-Attack demo project. 
 
 -->
+
+
+The RTS and X Ray Visor demos are now outdated and are being prepped to move to Unity 6.5 API.
+Note the X Ray Visor is already finished and updated, but a couple other files in the project needs updated.
+Mainly thanks to Unity adding improved depth texture support during the transparency Render Graph Pass.
+This lowered the complexity of code and improved performance a lot.
+
 
 First one was a short Multithreading learning project for Unity DOTS to implement multithreaded enemy movement and stratgey game selection.
 This one is small because I moved over to the ocean generator for multithreading. 
@@ -135,15 +159,16 @@ This one has a combat visor system for scanning objects and adding the scan data
 
 
 ### Other SF Unity community packages
+Note the SF Utilities and SF UI Elements are now just part of the SF Core package.
 
 [Shatter Fantasy GitHub Organization Page](https://github.com/Shatter-Fantasy)
 
-[Shatter Fantasy UI Elements Tools](https://github.com/Shatter-Fantasy/SF-UI-Elements)
-
-[Shatter Fantasy Utilities](https://github.com/Shatter-Fantasy/SF-Utilities)
 
 > [!WARNING]
-> The SF Sprite Tools package are currently in very experimental testing. 
+> The SF Sprite Tools package are currently in very experimental testing.
+> I had to wait for some Unity 6.5 and Unity 6.6 API changes to go public first before making it a stable release.
+> The new Sprite Editor and RenderSprite API is out in Unity 6.6 alpha already and Unity 6.5 also has it out now. Just need to implement it.
+> 
 > It is in early pre-alpha currently and can throw errors in rare cases  when using the multi sprite editing tool for creating animations. <br/>
 > Test the SF Sprite Tools in a new project. Do not use the pre-alpha package in a project that already exists till it is more stable.
 > Read the install instructions carefully that are located in the read me at the following link.
