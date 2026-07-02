@@ -1,14 +1,21 @@
 # Hi there, I am Jonathan Westfall. 
 
+Just a Unity dev that has worked for Sony partnered game studios for tool development contracts, Universities like Mizzou for educational games for teaching kids with a 10 million dollar educational grant, and several small contracts ranging from three months to a four years contract for several tools for a studio.
+
 Currently working as a Unity community dev that enjoys working on physics systems and custom tool editors.
 At the moment I am also working on tutorials for the community for Unity 6.5 and newer versions to help showcase how to use new features and help migrate over from older obsoleted features.
 
-Starting in June 2026 I will be working on the UI Toolkit and Physics Core 2D Module tutorials and features.
-Link to a new repo where I will be starting to add example demos that go along the videos I release to teach and help share information about new Unity features.
 
-https://github.com/crowhound/UI-Toolkit-Tutorials
+https://github.com/Jonathan-Westfall-Shatter-Fantasy/UI-Toolkit-Tutorials
 
 ----
+
+## Examples of Previous Works
+Contracted to work for Sony partnered studios to make tools in Unity to connect to Sony Playstation tools.
+one studio made it to Sony's front page with a blog. Did some contract work for project codename Red bandits for localization, dialogue, and some other core system tools.
+Note the game is not released yet, so can't say too much because of NDA, but looking forward to seeing the tols I made come to life in a new release soon.
+
+https://blog.playstation.com/2025/08/23/revealing-4-middle-east-and-north-africa-mena-hero-project-games-coming-to-playstation/
 
 
 
