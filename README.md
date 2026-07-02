@@ -8,6 +8,13 @@ At the moment I am also working on tutorials for the community for Unity 6.5 and
 
 https://github.com/Jonathan-Westfall-Shatter-Fantasy/UI-Toolkit-Tutorials
 
+## How to support future tutorials and the Unity packages.
+All the tools at the Shatter Fantasy organization git repos are made by more for free without any pay. Same for the tutorials on the YouTube channel.
+If anyone wants to help support what is coming in the near future or like what is already on the YouTube channel and on the repos, 
+I am going to start using the Ko-Fi account I made a while back to accept donations.
+
+https://ko-fi.com/8bitsperplay
+
 ----
 
 ## Examples of Previous Works
